@@ -1,0 +1,8 @@
+{
+  "name": "Remix Srinivas Institute of Technology Admissions",
+  "description": "Official Admission Portal \u0026 Information Website for Srinivas Institute of Technology (SIT), Mangalore. Explore BE, MTech, MBA, MCA courses, eligibility criteria, fee calculator, online applications, and campus tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
